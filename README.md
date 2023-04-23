@@ -17,7 +17,7 @@ it`s a code for createing TCP proxy`s useing python
 
 installing in linux/termux :
 
-git clone <link-project>
+git clone https://github.com/errorfiathck/Tcp-proxy.git
 
 cd Tcp-proxy
 
